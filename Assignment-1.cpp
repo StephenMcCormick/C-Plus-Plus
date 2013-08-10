@@ -1,5 +1,5 @@
 //  Stephen McCormick
-//  Club 2  Assinment 1
+//  Club 2  Assignment 1
 //  Determin dues for members and total dues for all members
 //  Variable Dictionary
 //  years  			  int		input for years of membership
